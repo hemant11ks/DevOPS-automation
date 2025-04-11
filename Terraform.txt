@@ -1,0 +1,6 @@
+Terraform is an infrastructure as code (IaC) tool that allows you to manage and provision infrastructure resources such as virtual machines, networks, and databases 
+using a human-readable configuration file.
+It supports a wide range of cloud and on-premises infrastructure providers, including AWS, Azure, Google Cloud, and more.
+
+Terraform uses a declarative configuration language, called HashiCorp Configuration Language (HCL), to define the desired state of your infrastructure.
+You write configuration files that describe the resources you want to create, and Terraform takes care of creating and managing them for you.
